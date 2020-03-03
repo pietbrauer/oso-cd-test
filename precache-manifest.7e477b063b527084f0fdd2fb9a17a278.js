@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da240380fdd4c28f3a96ddd05f1117d8",
+    "revision": "97317ec56b3119b6069754488a2bf83d",
     "url": "/oso-cd-test/index.html"
   },
   {
-    "revision": "22af36378d6ce3d62154",
+    "revision": "d71b83e4e7e83d2e0a5b",
     "url": "/oso-cd-test/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oso-cd-test/static/js/2.83c91045.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22af36378d6ce3d62154",
-    "url": "/oso-cd-test/static/js/main.acd68af1.chunk.js"
+    "revision": "d71b83e4e7e83d2e0a5b",
+    "url": "/oso-cd-test/static/js/main.7893354e.chunk.js"
   },
   {
     "revision": "63439a6075a5871cc75b",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/oso-cd-test/static/css/main.d1b05096.chunk.css",
-    "main.js": "/oso-cd-test/static/js/main.acd68af1.chunk.js",
-    "main.js.map": "/oso-cd-test/static/js/main.acd68af1.chunk.js.map",
+    "main.js": "/oso-cd-test/static/js/main.7893354e.chunk.js",
+    "main.js.map": "/oso-cd-test/static/js/main.7893354e.chunk.js.map",
     "runtime-main.js": "/oso-cd-test/static/js/runtime-main.0efcd134.js",
     "runtime-main.js.map": "/oso-cd-test/static/js/runtime-main.0efcd134.js.map",
     "static/js/2.83c91045.chunk.js": "/oso-cd-test/static/js/2.83c91045.chunk.js",
     "static/js/2.83c91045.chunk.js.map": "/oso-cd-test/static/js/2.83c91045.chunk.js.map",
     "index.html": "/oso-cd-test/index.html",
-    "precache-manifest.d1cc5f72bfa57c0b2fffb2a4ab4cc2be.js": "/oso-cd-test/precache-manifest.d1cc5f72bfa57c0b2fffb2a4ab4cc2be.js",
+    "precache-manifest.7e477b063b527084f0fdd2fb9a17a278.js": "/oso-cd-test/precache-manifest.7e477b063b527084f0fdd2fb9a17a278.js",
     "service-worker.js": "/oso-cd-test/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/oso-cd-test/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.83c91045.chunk.js.LICENSE.txt": "/oso-cd-test/static/js/2.83c91045.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0efcd134.js",
     "static/js/2.83c91045.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.acd68af1.chunk.js"
+    "static/js/main.7893354e.chunk.js"
   ]
 }
