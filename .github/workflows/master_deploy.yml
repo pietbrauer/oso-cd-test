@@ -22,6 +22,9 @@ jobs:
     - name: Set git name
       run: git config user.name "Piet Brauer"
     - name: Deploy
-      run: npm run deploy
+      run: |
+        git config --global user.email "piet.brauer@mhp.com"
+        git config --global user.name "Piet Brauer"
+        git remote set-url origin https://$GITHUB_ACCESS_TOKEN@github.com/pietbrauer/oso-cd-test.git
     - name: Updating Domain
       run: echo "Update domain"
