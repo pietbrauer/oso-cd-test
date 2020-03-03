@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aca2aa59360ea5a6132c3fa4277a1bbd",
+    "revision": "97317ec56b3119b6069754488a2bf83d",
     "url": "/oso-cd-test/index.html"
   },
   {
-    "revision": "a8dce6c9ca9e301dc275",
+    "revision": "d71b83e4e7e83d2e0a5b",
     "url": "/oso-cd-test/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oso-cd-test/static/js/2.83c91045.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8dce6c9ca9e301dc275",
-    "url": "/oso-cd-test/static/js/main.fc0dd4ab.chunk.js"
+    "revision": "d71b83e4e7e83d2e0a5b",
+    "url": "/oso-cd-test/static/js/main.7893354e.chunk.js"
   },
   {
     "revision": "63439a6075a5871cc75b",
     "url": "/oso-cd-test/static/js/runtime-main.0efcd134.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/oso-cd-test/static/media/logo.5d5d9eef.svg"
   }
 ]);
