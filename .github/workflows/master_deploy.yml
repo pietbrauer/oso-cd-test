@@ -19,8 +19,8 @@ jobs:
       run: npm install
     - name: Deploy
       run: |
-        git config --global user.email "piet.brauer@mhp.com"
-        git config --global user.name "Piet Brauer"
+        git config user.email "piet.brauer@mhp.com"
+        git config user.name "Piet Brauer"
         git remote set-url origin https://{{ secrets.GITHUB_ACCESS_TOKEN }}@github.com/pietbrauer/oso-cd-test.git
         npm run deploy
     - name: Updating Domain
